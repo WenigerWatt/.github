@@ -22,25 +22,25 @@ Das Projekt **WenigerWatt** verfolgt das Ziel, eine auffällig hohe Grundlast vo
 
 ## Projektkomponenten
 
-### 📡 Energiemonitoring
+### 📡 Energiemonitoring (Beispiel)
 
 - Aufbau eines kontinuierlichen Strommonitorings mit Datenloggern (z. B. IoT-Geräte oder Smart Meter).
 - Speicherung und Visualisierung der Messdaten in Echtzeit.
 - Erstellung von Lastprofilen zur Verbrauchsanalyse.
 
-### 🔧 Energieeffizienzoptimierung
+### 🔧 Energieeffizienzoptimierung (Beispiel)
 
 - Identifikation ineffizienter Verbraucher.
 - Ableitung potenzieller Maßnahmen zur Reduktion der Grundlast.
 - Umsetzungsplanung in Abstimmung mit HRW-Technik und Infrastruktur.
 
-### 📊 Wirtschaftlichkeitsanalyse
+### 📊 Wirtschaftlichkeitsanalyse (Beispiel)
 
 - Gegenüberstellung der Investitionskosten und der zu erwartenden Einsparungen.
 - Berechnung der Amortisationszeit.
 - Quantifizierung der CO₂-Einsparungen gemäß gängiger Standards.
 
-### 🌐 Webplattform
+### 🌐 Webplattform (Beispiel)
 
 - Bereitstellung einer öffentlichen, regelmäßig aktualisierten Website.
 - Darstellung von:
@@ -50,7 +50,7 @@ Das Projekt **WenigerWatt** verfolgt das Ziel, eine auffällig hohe Grundlast vo
 
 ---
 
-## Repository-Inhalte
+## Repository-Inhalte (Beispiel)
 
 | Ordner / Datei              | Beschreibung |
 |----------------------------|--------------|
@@ -72,7 +72,7 @@ Das Projekt **WenigerWatt** verfolgt das Ziel, eine auffällig hohe Grundlast vo
 
 ---
 
-## Beteiligte
+## Beteiligte *(Platzhalter)*
 
 - **Projektleitung**: [Name einfügen]
 - **Team**: [Namen / Rollen der Beteiligten einfügen]
@@ -80,13 +80,13 @@ Das Projekt **WenigerWatt** verfolgt das Ziel, eine auffällig hohe Grundlast vo
 
 ---
 
-## Lizenz
+## Lizenz *(Platzhalter)*
 
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
 ---
 
-## Kontakt
+## Kontakt *(Platzhalter)*
 
 Für Rückfragen oder Mitwirkung:
 
